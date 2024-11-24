@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Basic Dairy & Food Industries Ltd",
+  title: "Basic Dairy & Food Industries Ltd.",
   description: "Basic Dairy & Food Industries Ltd",
 };
 
