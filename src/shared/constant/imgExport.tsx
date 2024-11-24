@@ -11,12 +11,6 @@ import brand2 from "../../../assets/food2.jpg";
 import brand3 from "../../../assets/food3.jpg";
 import brand4 from "../../../assets/food4.jpg";
 
-// import brand4 from "../../../assets/brand4.png";
-// import brand5 from "../../../assets/brand6.png";
-// import brand6 from "../../../assets/brand7.png";
-// import brand7 from "../../../assets/brand8.png";
-// import brand8 from "../../../assets/brand9.png";
-
 import man from "../../../assets/man.jpg";
 
 import About from "../../../assets/about-img.jpg";
@@ -35,9 +29,5 @@ export const img = {
   brand2,
   brand3,
   brand4,
-  // brand5,
-  // brand6,
-  // brand7,
-  // brand8,
   man,
 };
